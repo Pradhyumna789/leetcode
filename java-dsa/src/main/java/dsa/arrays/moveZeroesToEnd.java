@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/move-zeroes/description/
 package dsa.arrays;
 
 public class moveZeroesToEnd {

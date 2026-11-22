@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/rotate-array/
 package dsa.arrays;
 
 public class RightRotateArrByK {

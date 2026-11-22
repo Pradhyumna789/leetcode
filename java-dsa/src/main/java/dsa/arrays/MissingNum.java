@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/missing-number/description/
 package dsa.arrays;
 
 public class MissingNum {

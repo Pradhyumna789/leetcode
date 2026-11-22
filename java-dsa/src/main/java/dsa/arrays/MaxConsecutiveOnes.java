@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/max-consecutive-ones/
 package dsa.arrays;
 import java.util.Scanner;
 

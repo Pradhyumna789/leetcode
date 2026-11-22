@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 package dsa.arrays;
 import java.util.Scanner;
 
