@@ -1,5 +1,4 @@
 package dsa.arrays;
-import java.util.Scanner;
 
 public class removeDuplicatesFromSortedArr {
     public int removeDuplicates(int[] nums) {

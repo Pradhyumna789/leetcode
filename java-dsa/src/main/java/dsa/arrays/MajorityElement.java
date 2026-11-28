@@ -1,6 +1,6 @@
 package dsa.arrays;
 
-public class majorityElement {
+public class MajorityElement {
     public int majorityEle(int[] nums) {
         int n = nums.length;
         int el = 0;
